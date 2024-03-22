@@ -32,4 +32,4 @@ I would like to express my gratitude to my mentors at Code Clause for their supp
 Feel free to reach out to me if you have any questions or feedback regarding this project:
 - Email: [chintavishnuvardhan@gmail.com](mailto:chintavishnuvardhan@gmail.com)
 - LinkedIn: [Chinta Vishnu vardhan](https://www.linkedin.com/in/chinta-vishnu-vardhan-785746230)
--Preview: (https://languagevvr.netlify.app)
+- Preview: [Real-Time-Language-Translator-Tool](https://languagevvr.netlify.app)
